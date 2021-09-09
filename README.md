@@ -14,8 +14,9 @@ cd /work/$USER
 ```
 git clone https://github.com/dbxmcf/wu_sizegap.git
 ```
-4. Submit the job:
+4. Change to the wu_sizegap directory and then submit the job:
 ```
+cd wu_sizegap
 qsub stepall.sh
 ```
 
