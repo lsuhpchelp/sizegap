@@ -15,7 +15,7 @@ export PATH=/usr/local/packages/python/2.7.12-anaconda-wu/wuportal/Classificatio
 
 cd $PBS_O_WORKDIR
 
-export SAMPLE_PATH="./sample_root/"
+export SAMPLE_PATH="$PWD/sample_root/"
 export SAMPLE_NAME="t1"
 
 generate_samples.py --sample_name $SAMPLE_NAME --path $SAMPLE_PATH
