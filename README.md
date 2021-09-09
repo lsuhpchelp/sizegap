@@ -1,7 +1,7 @@
 # wu_sizegap
 # Repository for running
 
-## Repository for 2nd LBRN/LONI Scientific Computing Bootcamp
+## How to run on the LONI cluster
 
 * **Day 1**: Under construction
 
