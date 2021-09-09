@@ -17,6 +17,3 @@ cd $PBS_O_WORKDIR
 
 generate_samples.py --sample_name t21 --path "$PWD/"
 
-#key_generation_parallel_size_gap.py --path ./ --sample_name t21 #--is_chain
-
-#__main__.py --path ./ --sample_name ./t21 

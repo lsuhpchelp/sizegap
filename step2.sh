@@ -15,4 +15,3 @@ export PATH=/usr/local/packages/python/2.7.12-anaconda-wu/wuportal/Classificatio
 cd $PBS_O_WORKDIR
 key_generation_parallel_size_gap.py --path ./ --sample_name t21 #--is_chain
 
-#__main__.py --path ./ --sample_name ./t21 
